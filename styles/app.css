@@ -1,0 +1,26 @@
+html,
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar-default {
+	border: none;
+	background: none;
+	border-bottom: solid 1px #eaeaea;
+}
+
+
+.navbar {
+	min-height: 82px;
+}
+
+.masthead {
+	color: #fff;
+	text-align: center;
+	background-color: #E35E31;
+	min-height: 80vh;
+}
+
+.masthead h1 {
+	font-weight: 300;
+}
